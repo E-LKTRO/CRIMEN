@@ -60,7 +60,7 @@ background: radial-gradient(280px at 25% 10%, red, blue, black);
 .introduccion-presentacion h1{
     color: red;
     font-size: 2.625em;  /*16px  1em  42px  ?*/
-    text-shadow: 1px 1px 0px darkred;
+    text-shadow: 1px 1px 0px white;
     text-align: center;
     margin-top: 70px;
     margin-bottom: 40px;
